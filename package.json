@@ -1,0 +1,14 @@
+{
+  "name": "learning-javascript-project",
+  "version": "1.0.0",
+  "description": "Learnign javascript with this one project. I am also trying replit for code editing and github for repositori.",
+  "main": "projects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
